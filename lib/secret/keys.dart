@@ -1,0 +1,1 @@
+final String newsApiKey = "9374057fe3894f9e8cfae19ce3a19616";
