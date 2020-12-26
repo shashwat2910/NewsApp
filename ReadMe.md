@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+For the whatsapp part it is still under development. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
